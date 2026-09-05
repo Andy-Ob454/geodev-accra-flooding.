@@ -1,0 +1,1 @@
+Raw datasets for this project are not committed to version control due to file size. See the main README.md for download links to all three sources (OSM Ghana extract, SRTM DEM, and the HDX flood extent shapefile).
