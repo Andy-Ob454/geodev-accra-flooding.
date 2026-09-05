@@ -24,4 +24,4 @@ Accra floods almost every rainy season — 2015 (over 150 deaths, GOIL station e
 
 - [X] GitHub repo created, initialized, first commit pushed
 - [X] Project brief committed as README.md, with the three dataset links above
-- [ ] Datasets downloaded locally (not committed — `data/README.md` explains what's excluded and why)
+- [x] Datasets downloaded locally (not committed — `data/README.md` explains what's excluded and why)
