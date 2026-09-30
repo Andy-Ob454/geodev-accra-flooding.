@@ -30,3 +30,7 @@ Raw datasets are not committed to this repository due to file size. See [`data/R
 ## Analysis-ready output
 
 All reprojected, clipped, quality-checked layers live in `data/processed/accra_analysis_ready.gpkg` (local only, not committed — see `docs/quality-note.md` for details).
+
+## Month 2: development environment and early Python
+
+Week 5: set up Python, VS Code and the terminal. hello.py runs. 
