@@ -1,0 +1,5 @@
+id,name,fclass,length_m,flooded
+3,Road C,tertiary,300,no
+5,Road E,primary,1200,no
+6,Road F,secondary,640,no
+9,,residential,130,no
