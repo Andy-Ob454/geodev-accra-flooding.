@@ -33,13 +33,13 @@ All reprojected, clipped, quality-checked layers live in `data/processed/accra_a
 
 ## Month 2: development environment and early Python
 
-Week 5: set up Python, VS Code and the terminal. hello.py runs. 
+Week 5: set up Python, VS Code and the terminal. [hello.py](hello.py) runs. ([screenshot](screenshots/week5.png))
 
-Week 6: set up the project with uv and added pandas. check.py prints the pandas version.
+Week 6: set up the project with uv and added pandas. [check.py](check.py) prints the pandas version. ([screenshot](screenshots/week6.png))
 
-Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
+Week 7: [analyse.py](analyse.py) reads [wards.csv](wards.csv), converts each area and classifies each ward. ([screenshot](screenshots/week7.png))
 
-Week 8: inspect_data.py summarises length_m and fclass in my flooded_roads data.
+Week 8: [inspect_data.py](inspect_data.py) summarises length_m and fclass in my flooded_roads data. ([screenshot](screenshots/week8.png))
 
 Week 9: [summary.py](summary.py) uses functions to summarise the length of the 110 flooded road segments from my Month 1 analysis. ([screenshot](screenshots/week9.png))
 
