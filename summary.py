@@ -31,5 +31,5 @@ def summarise_all(rows, columns):
               "largest:", s["max"], "average:", round(s["mean"], 2))
 
 
-rows = load_rows("flooded_roads.csv")
-summarise_all(rows, ["id", "length_m"]) 
+rows = load_rows("month1_flooded_roads.csv")
+summarise_all(rows, ["length_meters"])
