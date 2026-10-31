@@ -41,7 +41,9 @@ Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
 
 Week 8: inspect_data.py summarises length_m and fclass in my flooded_roads data.
 
-Week 9: summary.py uses functions to summarise every numeric column in my flooded_roads data.
+Week 9: [summary.py](summary.py) uses functions to summarise the length of the 110 flooded road segments from my Month 1 analysis. ([screenshot](screenshots/week9.png))
+
 
 ## Month 2 reflection
-The idea that finally clicked for me was functions: instead of repeating the same loop for each column, I wrote it once in summarise_column and reused it for every column.Something still fuzzy is writing loops from scratch to solve a task without checking my notes. Running summary.py on my Month 1 roads data worked without errors because the data is clean, but it is not complex, so it only shows basic counts and averages. The next analytical steps, such as spatial joins and raster analysis in Month 3, will need more than these simple summaries.
+
+The idea that finally clicked for me was functions: instead of repeating the same loop for each column, I wrote it once in summarise_column and reused it for every column. Something still fuzzy is writing loops from scratch to solve a task without checking my notes. Running summary.py on my 110 flooded road segments from Month 1 gave an average length of 126.86 m, which matches my Month 1 total of 13.95 km. The data is clean, but it is not complex, so it only shows basic counts and averages, and the next analytical steps, such as spatial joins and raster analysis in Month 3, will need more than these simple summaries.
